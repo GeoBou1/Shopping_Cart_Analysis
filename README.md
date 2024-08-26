@@ -1,16 +1,17 @@
 # SQL Data Analysis Project
 
 ## Overview
-This project demonstrates SQL-based analysis of sales data from a fictional retail company. The analysis focuses on customer behavior, product popularity, and sales trends.
+This project demonstrates SQL-based analysis of sales data from a fictional retail company based in Australia. We'll get through various steps including exploration, cleaning and agreggation. We'll take some axis to frame our analysis and get some vizualisation.
 
 ## Datasets
 - `customers.csv`: Contains customer information.
 - `orders.csv`: Contains order transaction data.
 - `products.csv`: Contains product details.
+- `sales.csv`: Contains sales details over the analysis period.
 
 ## SQL Queries
 The SQL queries used to analyze the data can be found in the `queries/` directory. They include:
-- Basic queries to explore the data.
+- Basic queries to explore the data : primary & join keys checks, exploration steps...
 - Advanced queries to perform joins and calculate aggregate metrics.
 
 ## Results
