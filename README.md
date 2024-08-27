@@ -1,7 +1,7 @@
 # SQL Data Analysis Project
 
 ## Overview
-This project demonstrates SQL-based analysis of sales data from a fictional retail company based in Australia. We'll get through various steps including exploration, cleaning and agreggation. We'll take some axis to frame our analysis and get some vizualisation.
+This project demonstrates SQL-based analysis of sales data from a fictional retail company based in Australia. We'll get through various steps including exploration, cleaning and agreggation. In order to frame our analysis, we'll take the role of a Data Analyst who's been asked from the customer success department to analyze the clients' behaviors.
 
 ## Datasets
 - `customers.csv`: Contains customer information.
